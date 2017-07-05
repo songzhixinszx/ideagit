@@ -10,5 +10,6 @@ public class A {
         System.out.println(3333);
         int a;
         System.out.println(2222);
+
     }
 }
