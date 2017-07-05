@@ -10,5 +10,6 @@ public class B {
         int cc;
         int BB;
         int q;
+
     }
 }
