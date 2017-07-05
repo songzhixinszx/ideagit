@@ -13,5 +13,7 @@ public class A {
 
         int b;
 
+        int c;
+
     }
 }
