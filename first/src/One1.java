@@ -8,6 +8,7 @@ public class One1{
     public static void main(String[] args) {
         System.out.println(1111);
         System.out.println(2222);
+        System.out.println("现在是第二次了");
     }
     public String f(String p){
         return 1+"";
