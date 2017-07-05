@@ -7,6 +7,9 @@ public class B {
 
     public static void main(String[] args) {
 
+        int qq1;
+        int qq2;
+        int qq3;
         int a1;
         int b1;
         int c1;
