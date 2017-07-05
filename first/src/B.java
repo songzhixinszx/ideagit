@@ -7,18 +7,6 @@ public class B {
 
     public static void main(String[] args) {
 
-        int bb;
-        int cc;
-        int wg;
-        int BB;
-        int bb;
-        int cc;
-        int wg;
-        int BB;
-        int bb;
-        int cc;
-        int wg;
-        int BB;
-
+        int q;
     }
 }
