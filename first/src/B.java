@@ -7,6 +7,8 @@ public class B {
 
     public static void main(String[] args) {
 
-        int q;
+        int qq1;
+        int qq2;
+        int qq3;
     }
 }
